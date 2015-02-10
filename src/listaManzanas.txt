@@ -1,0 +1,3 @@
+una;arbol;roja;3.43;1011
+dos;arbol2;verde;4.56;1012
+tres;arbol3;azul;10.32;1013

@@ -1,0 +1,2 @@
+una;micasa;verde;2.34;1001
+dos;micasa2;roja;1.24;1002
