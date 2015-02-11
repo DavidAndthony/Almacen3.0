@@ -7,8 +7,10 @@ public class Pedidos {
 	Manzana manzanas = new Manzana();
 	Lechuga lechugas = new Lechuga();
 	Leche leches = new Leche();
+	
 	ArrayList<Distribuidores> distribuidores = new ArrayList<Distribuidores>();
 	ArrayList<Manzana> manzanass = new ArrayList<Manzana>();
+	
 	Scanner sc = new Scanner(System.in);
 	int opcion;
 	
@@ -38,7 +40,7 @@ public class Pedidos {
 								manzana.setDistribuidor(distribuidores.get(d));
 							}
 						}
-						manzanas.add(manzana);
+						manzanass.add(manzana);
 					}
 				
 	}

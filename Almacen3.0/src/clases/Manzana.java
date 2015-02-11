@@ -20,9 +20,6 @@ public class Manzana extends Producto {
 			this.eurosKilo = euros;
 		}
 
-		public void add(Manzana manzana) {
-			// TODO Auto-generated method stub
-			
-		}
+	
 
 }
